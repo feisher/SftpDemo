@@ -1,5 +1,14 @@
 # SftpDemo
 sftp下载测试demo，含有上传相关代码，支持断点续传(上传+下载)，
+### 参考链接
+API: https://epaul.github.io/jsch-documentation/javadoc/
+
+官方Demo：http://www.jcraft.com/jsch/examples/Sftp.java
+
+http://www.jcraft.com/jsch/examples/Sftp.java.html
+
+http://www.jcraft.com/jsch/examples/
+
 ## 文件下载
 
 ```java
